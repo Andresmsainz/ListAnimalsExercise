@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\bin\Debug\netcoreapp3.1\AnimalsExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\AnimalsExercise\obj\Debug\netcoreapp3.1\AnimalsExercise.genruntimeconfig.cache
